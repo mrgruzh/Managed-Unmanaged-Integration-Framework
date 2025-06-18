@@ -1,0 +1,6 @@
+
+g++ -c -Wall -Werror -fpic arraylib.cpp -o arraylib.o
+g++ -shared -o libarraylib.so arraylib.o
+
+LD_LIBRARY_PATH=/home/rita/projects/term_2/proga/term2/pr4.1/ dotnet run
+
