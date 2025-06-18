@@ -1,4 +1,4 @@
-# Managed-Unmanaged-Integration-Framework
+# DotNet-NativeInterop-Visualizer
 
 Проект представляет собой демонстрацию межъязыкового взаимодействия управляемой среды .NET и нативной C++ библиотеки с последующей визуальной репрезентацией данных средствами GTK и Cairo.
 
